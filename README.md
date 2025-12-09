@@ -13,4 +13,4 @@ Data storage:
 - Uninstalling the app removes locally stored data.
 
 Contact:
-If you have questions about this privacy policy, contact: YOUR-EMAIL-HERE
+If you have questions about this privacy policy, contact: lavenjohn6@gmail.com
